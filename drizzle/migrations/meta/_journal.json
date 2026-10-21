@@ -8,6 +8,13 @@
       "when": 1792611455621,
       "tag": "0000_academy_core",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1792611500684,
+      "tag": "0001_seed_courses_settings",
+      "breakpoints": true
     }
   ]
 }
